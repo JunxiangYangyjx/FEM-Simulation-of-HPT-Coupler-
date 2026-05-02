@@ -1,0 +1,1 @@
+The default ANSYS version is set to 2023R1. If a different version is required, it can be modified in the corresponding field of config_template.json. After installing the required libraries, simply run run.py. This script contains three sections: (1) a single simulation test, (2) Latin hypercube sampling, and (3) dictionary-based search.
